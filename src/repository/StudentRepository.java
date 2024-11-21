@@ -1,10 +1,9 @@
 package repository;
 
-import core.OrderBy;
 import model.Student;
 
 import java.sql.SQLException;
-import java.util.*;
+import java.util.List;
 
 public interface StudentRepository {
 

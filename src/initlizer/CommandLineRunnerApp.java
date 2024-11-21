@@ -8,8 +8,6 @@ import java.sql.PreparedStatement;
 import java.sql.Statement;
 
 
-
-
 public class CommandLineRunnerApp {
 
     public static Integer statementType = StatementType.UNDEFINED;
